@@ -12,7 +12,7 @@ def main():
             print("\033[1;32m●─\033[1;34mo Select:\033[0m")
             print("\033[1;32m┢── \033[1;34m1. YouTube\033[0m")
             print("\033[1;32m┣── \033[1;34m2. Instagram\033[0m")
-            print("\033[1;32m┣── \033[1;31m3. History\033[0m")
+            print("\033[1;32m┣── \033[1;34m3. History\033[0m")
             print("\033[1;32m┣── \033[1;31mCtrl + C : Exit\033[0m")
             print("\033[1;32m┗────➡ \033[0m", end="")
 
